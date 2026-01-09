@@ -373,14 +373,15 @@
   display: flex;
   justify-content: center;
   gap: 16px;  
-  border-radius: 50%;          
+          
 }
 
-.social-icons a{
+.social-icons a i{
   background-color: rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 1);
   text-decoration: none;
   margin-top: 16px;
+  border-radius: 50%;  
 
 }
 
